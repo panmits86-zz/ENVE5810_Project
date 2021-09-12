@@ -1,0 +1,14 @@
+name: ENVE5810_Project
+channels:
+  - conda-forge
+dependencies:
+  - jupyter
+  - jupyterlab
+  - xarray
+  - numpy
+  - netcdf4
+  - matplotlib
+  - cartopy
+  - cmaps
+  - cmcrameri
+  - cfgrib
